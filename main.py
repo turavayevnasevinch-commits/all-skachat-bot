@@ -9,12 +9,13 @@ bot = telebot.TeleBot(TOKEN)
 REKLAMA_TEXT = (
     "📚 **Kitob sevuvchilar uchun maxsus loyiha!**\n\n"
     "📖 Har hafta yangi kitob yutib olish imkoniyati\n"
-    "🍃 Aktiv bo’lib barg yig'asiz va ularni kitoblarga almashtirasiz!\n\n"
-    "💖 Adminga rahmat aytish va tekin kitoblarga ega bo'lish uchun safimizga qo'shiling! "
-    "Haqiqiy kitobxon bo'lsangiz, bu imkoniyatni o'tkazib yubormang! ✨\n\n"
+    "🌱 Aktiv bo'lib barg yig'asiz va ularni kitoblarga almashtirasiz!\n"
+    "💖 Adminga rahmat aytish va tekin kitoblarga ega bo'lish uchun safimizga qo'shiling! ✨\n\n"
+    "Haqiqiy kitobxon bo'lsangiz, bu imkoniyatni o'tkazib yubormang! 🎉\n\n"
     "👇 **Qo'shilish uchun havola** 👇\n"
     "https://t.me/Varaq_loyihasi_bot?start=896dbde3"
 )
+
 
 user_urls = {}
 
